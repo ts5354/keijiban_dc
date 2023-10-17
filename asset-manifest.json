@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/keijiban_dc/static/css/main.5dc01150.css",
+    "main.js": "/keijiban_dc/static/js/main.9a2c90c8.js",
+    "static/js/787.45838ef9.chunk.js": "/keijiban_dc/static/js/787.45838ef9.chunk.js",
+    "static/media/5A26C90F-DF7D-46C3-A59F-6CAD19368CD0.jpeg": "/keijiban_dc/static/media/5A26C90F-DF7D-46C3-A59F-6CAD19368CD0.95d049ed660934945ea2.jpeg",
+    "static/media/ff947d8e.png": "/keijiban_dc/static/media/ff947d8e.ef7a461c186efb2eb318.png",
+    "static/media/heart_shape-1-p19.png": "/keijiban_dc/static/media/heart_shape-1-p19.e975ef2c73a96f913e58.png",
+    "index.html": "/keijiban_dc/index.html",
+    "main.5dc01150.css.map": "/keijiban_dc/static/css/main.5dc01150.css.map",
+    "main.9a2c90c8.js.map": "/keijiban_dc/static/js/main.9a2c90c8.js.map",
+    "787.45838ef9.chunk.js.map": "/keijiban_dc/static/js/787.45838ef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc01150.css",
+    "static/js/main.9a2c90c8.js"
+  ]
+}
